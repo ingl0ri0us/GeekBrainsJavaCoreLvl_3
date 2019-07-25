@@ -1,0 +1,46 @@
+The Internet of Things
+Internet 2.0
+I remember fondly when I first encountered the internet at the ripe age of eight and thinking it was the best thing on earth. I was able to download music at blazing 56 kb/second speed, read about my favorite video games on GameFAQs.com and chat with my friends/random strangers on Aim Messenger. It was truly a brand new world.
+Twenty years later, the internet is still pretty awesome. Many things have changed since then; it is no longer a nice thing to have, but rather a necessity in our everyday lives. The internet is a digital fabric that is woven into our very existence. It allows us to connect with people from all over the world, to speak, hear and communicate with each other in every way imaginable.
+A new wave of innovation has risen in the last five years that is changing the digital landscape. Where the internet used to connect people, now it connects things. What things, you ask? All kinds of things from everyday things, like electronics and gadgets, to bigger things homes and even cities.
+Thus, the internet of things is born.
+What is the IoT?
+Simply put, the internet of things is the concept of connecting devices to each other through the web. Just like how humans interact with each other with the senses of sight, touch, sound, smell, and taste, things have now have been given the ability to wirelessly sense and communicate with one another. The IoT adds a level of digital intelligence to devices that would otherwise be dumb, enabling them to exchange real-time data without a human being involved.
+Let’s take the obvious example, our iPhones/Androids.
+Smartphones have so many senses — it knows where you are, it knows if you’re moving, it knows how you’re holding it, it knows how much light is in the room, it knows what you’re saying. It has an eye to see the world and it can communicate with other people and other machines.
+When’s the last time you memorized a phone number? You don’t have to because your phone does it for you. Now, other devices are catching up and everything is in sync with each other, transferring data to improve the quality of our lives.
+Rise of the Machines
+What propagated the rise of IoT? Why did all this growth occur recently? There are many factors such as the following:
+Cost-effectiveness in mass production of electronics
+Cheap processors that help power/connect these devices
+Power-frugal engineering to allow devices to last longer/operate with less overhead
+Adoption of RFID tags that allow devices to communicate wirelessly
+Increased availability of broadband internet and cellular and wireless networking
+Adoption of IPv6 (versus IPv4), which provides enough IP addresses for every device in this galaxy
+Smart Everything
+Whether or not you are behind the idea of everything being connected to the internet, there is no question that the IoT has permeated our lives. Here are some examples of how some of this powerful technology is being used.
+Perhaps you own a smart TV that records your favorite shows and has it ready for you when you get home.
+Or your house has a smart thermostat that can tell you the temperature, know if you or a family member is in the room, and can predict when you will wake up and be home based on your previous patterns. All of these features in the name of comfort and energy conservation!
+One of my favorite smart devices is my Apple Watch. Not only does it track my daily steps and gives me feedback on how well I slept, it also monitors my heart rate and uploads all of my health metrics into my phone. I can bring it with me when I go swimming and it will track my exercise minutes and share that data with my friends real-time.
+On special occasions, it even tells the time.
+In recent years, we have seen the rise of smart homes appliances such as smart toasters, frying pans, refrigerators that all connect to the internet. We have so many smart devices we have to assign a device manager to oversee these processes in the form of Alexa and Google’s Home. How cool and crazy is that!
+But Why?
+The new rule for the future is going to be,
+“Anything that can be connected, will be connected.”
+But have we stopped and wonder why on earth would you want so many connected devices talking to each other?
+Some may argue that they have the potential to add tremendous value to our lives. Say, for example, you are on your way to a meeting; your car could have access to your calendar and already know the best route to take. If the traffic is heavy, your car might send a text to the other party notifying them that you will be late.
+How would you like it if your alarm clock wakes up you at 6 a.m. and then notifies your coffee maker to start brewing coffee for you? What if your office equipment knew when it was running low on supplies and automatically re-ordered more? What if the wearable device you used in the workplace could tell you when and where you were most active and productive and shared that information with other devices that you used while working?
+Aside from the benefits of pure convenience and time saving, what if a smart device can save your life? What if you had a heart condition or diabetes and your heart rate monitor can page an ambulance if it detects unsafe patterns in your glucose/breathing? This can be incredibly life-changing for those who live alone and are far from help. The IoT applied in the right ways is a wonderful thing that can help protect and extend our lives and the lives of the people we love.
+Danger Will Robinson
+As with any technological revolution, there are bound to be some tradeoffs and blind spots that come from adding convenience and automation to our day-to-day activities. When it comes to the internet of things, the biggest concerns are privacy and security.
+If a device is connected to the internet, chances are that is uploading data about its activity somewhere. The kind of data and the scope of the data is going to vary by product, but the potential for a privacy leak is enormous. What if your personal data is being shared? How would you feel about your habits and lifestyle decisions being packaged and sold to advertisers?
+Another big concern when it comes to having devices connected to the world wide web is security. Unfortunately, the IoT’s security track record so far has been extremely poor. Too many smart devices give little thought to the basics of security, like encrypting data in transit and at rest. This leaves a lot of vulnerabilities that can allow hackers and malicious software gateways to steal personal information like social security/credit card numbers.
+There is a popular video game series created by the folks over at Ubisoft called Watch Dogs that allow users to play a character that goes around San Francisco and hacks into any car, phone, security camera and any electronic device. Reality is not that much far removed. Researchers found 100,000 webcams in the United State that could be hacked with ease, while some internet-connected smartwatches for children have been found to contain security vulnerabilities that allow hackers to track the wearer’s location, eavesdrop on conversations, or even communicate with the user.
+Flaws in the software of IoT devices are discovered regularly and what’s scary is that many of them lack the capability to be patched or updated remotely, which means they are permanently at risk.
+The Business of IoT
+Despite all the dangers and risks involved with smart devices, this technological train of innovation isn’t stopping anytime soon. Market experts predict that by 2020, business and consumer spending on IoT hardware will hit nearly $3 trillion dollars.
+Today there are 10 billion devices on the internet. That’s almost 150% amount of people. This number is expected to increase to 50 billion in five years. The demand for smart tech is growing exponentially and businesses are rushing to meet those market needs.
+Future of IoT
+“The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.” — Mark Weiser
+Although the smartphone has only been in existence since 2011, it has become such an important part of our lives that it is hard to imagine a world without it. One question to ponder is how the Internet of Things will change how we perceive other things and their roles in our future. As machines continue to outnumber humans, what technologies will be essential to the human experience in the next 20 years? What device(s) will bring forth the next technological revolution? How do we ensure a safe, secure and symbiotic relationship with our things for our future generations?
+Share with me your thoughts and thanks for reading!
