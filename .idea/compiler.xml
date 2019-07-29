@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GeekBrainsJavaCoreL3" />
         <module name="GeekBrainsJavaCoreLvl_3" />
+        <module name="GeekBrainsJavaCoreL3" />
       </profile>
     </annotationProcessing>
   </component>
