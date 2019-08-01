@@ -1,0 +1,8 @@
+Rise of the Machines
+What propagated the rise of IoT? Why did all this growth occur recently? There are many factors such as the following:
+Cost-effectiveness in mass production of electronics
+Cheap processors that help power/connect these devices
+Power-frugal engineering to allow devices to last longer/operate with less overhead
+Adoption of RFID tags that allow devices to communicate wirelessly
+Increased availability of broadband internet and cellular and wireless networking
+Adoption of IPv6 (versus IPv4), which provides enough IP addresses for every device in this galaxy
