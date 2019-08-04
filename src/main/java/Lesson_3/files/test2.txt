@@ -1,0 +1,5 @@
+What is the IoT?
+Simply put, the internet of things is the concept of connecting devices to each other through the web. Just like how humans interact with each other with the senses of sight, touch, sound, smell, and taste, things have now have been given the ability to wirelessly sense and communicate with one another. The IoT adds a level of digital intelligence to devices that would otherwise be dumb, enabling them to exchange real-time data without a human being involved.
+Let’s take the obvious example, our iPhones/Androids.
+Smartphones have so many senses — it knows where you are, it knows if you’re moving, it knows how you’re holding it, it knows how much light is in the room, it knows what you’re saying. It has an eye to see the world and it can communicate with other people and other machines.
+When’s the last time you memorized a phone number? You don’t have to because your phone does it for you. Now, other devices are catching up and everything is in sync with each other, transferring data to improve the quality of our lives.
